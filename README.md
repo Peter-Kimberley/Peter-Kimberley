@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peter-Kimberley
 - 👀 I’m interested in Coding and Development
-- 🌱 I’m currently learnin Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me p3t3rk1m80@gmail.com
 
