@@ -1,6 +1,11 @@
 - Hey there 👋, I'm Peter Kimeberley
 - 🎓 Software Development Student | 💻 Application Developer & Maintainer
-- 🌱 I’m currently studying **Software Development**  
+- 🌱 I’m currently studying **Software Development** at the OU
+ <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Open_University_Logo.svg/512px-Open_University_Logo.svg.png" alt="Open University Logo" width="80"/>
+</p>
+
+<p align="center">
 - 💼 Working on **maintaining and developing applications**  
 - ⚙️ Focused on **clean code, reliability, and scalability**  
 - 🚀 Always learning, experimenting, and improving my craft I have been working with, 
