@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peter-Kimberley
 - 👀 I’m interested in Coding and Development
-- 🌱 I’m currently working with Python, Jave, and C#
+- 🌱 I’m currently working with Python, Java, and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me p3t3rk1m80@gmail.com
 
